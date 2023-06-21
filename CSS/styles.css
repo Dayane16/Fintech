@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400&display=swap');
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #dce9fa;
+}
+
+.input-color {
+    color: #92969b;
+    background-color: #d0dae7;
+}
+
+.txt1 {
+    color: #18263e;
+}
+.txt2 {
+    color: #6d747e;
+}
+
+.bgnv {
+    background-color: #00A3C2;
+}
+
+.tamanho {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-login {
+    background-color: #dce9fa;
+}
+
+.px-6 {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.txt3 {
+    color: #584d89;
+}
+
+.custom-hover-animation {
+    background-color: #00a3c2;
+    color: #ffff;
+    transition: color 0.4s ease;
+    transition: background-color 0.4s ease;
+    margin-left: 15px;
+    padding: 7px;
+    border-radius: 20px;
+  }
+  
+  .custom-hover-animation:hover {
+    color: #584D89;
+    background-color: #dce9fa;
+  }
+
+  .custom-hover-animation.fixed-bg {
+    background-color: #dce9fa;
+
+  } 
+
+  .table-small {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.table-r {
+    border-radius: 10px;
+}
+
+.table {
+    border-radius: 20px;
+    overflow: hidden;
+    background: #D0DAE7;
+    box-shadow: 0px 2px 7px -2px rgba(0, 0, 0, 0.25);
+    width: 40%;
+    
+}
+
+.custom-table {
+    padding-left: 20px;
+}
+
+.acord {
+    border-radius: 20px;
+    background: #D0DAE7;
+    box-shadow: 0px 2px 7px -2px rgba(0, 0, 0, 0.25);
+
+    
+}
